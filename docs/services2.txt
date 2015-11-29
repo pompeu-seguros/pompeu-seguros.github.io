@@ -1,0 +1,22 @@
+INCLÍDOS NO SITE:
+Automóvel
+Frotas
+Transporte de Mercadorias
+
+Saúde Grupo
+Acidentes Pessoais Grupo
+Acidentes de Trabalho
+
+Avaria de Máquinas e Equipamentos Electrónicos
+Responsabilidade Civil
+Crédito
+
+-----------------------
+
+EXCLUÍDOS DO SITE:
+Multi-Riscos
+Perdas de Exploração
+Bens em Leasing
+Obras e Montagens
+Plano Complementar de Reforma
+Análises de Riscos Industriais 

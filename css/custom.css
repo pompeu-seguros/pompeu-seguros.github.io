@@ -1,0 +1,50 @@
+.navbar-fixed-top {
+	color: #fff;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+}
+
+.navbar-brand {
+	color: #FFFFFF !important;
+	font-weight: bold;
+}
+
+.navbar-brand:focus, 
+.navbar-brand:hover {
+	text-shadow:  2px 2px 7px rgba(195, 195, 195, 1);
+}
+
+a.nav {
+	color: #C9E6FF !important;
+}
+
+a.nav:focus,
+a.nav:hover {
+	color: #FFFFFF !important;
+	text-shadow:  1px 1px 3px rgba(205, 205, 205, 1);
+}
+
+li.active > a,
+li.active > a:hover,
+li.active > a:focus {
+  color: #fff;
+  background-color: #286090 !important;
+  border-color: #204d74 !important;
+}
+
+button.navbar-toggle{
+	color: #fff;
+	background-color: #337ab7 !important;
+	border-color: #D3D3D3 !important;
+}
+
+button.navbar-toggle:focus,
+button.navbar-toggle:hover {
+	color: #fff;
+	background-color: #286090 !important;
+	border-color: #204d74 !important;
+}
+
+.blue-text{
+	color: #337ab7;
+}
